@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aws-translation-dahabay.props" />
+</Project>

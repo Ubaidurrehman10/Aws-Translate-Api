@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZ5VpH+M6IuxIHo/Y6N2ucgtwHyM4lHVxUvyypXUPCz0cYg8/OokwV4/1gaHm7h3YkotykpETXZNToFU1Ll15w==",
+  "success": true,
+  "projectFilePath": "G:\\Development\\Sample-Projects\\Aws-translation-dahabay\\Aws-translation-dahabay\\Aws-translation-dahabay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumair\\.nuget\\packages\\awssdk.core\\3.7.201.6\\awssdk.core.3.7.201.6.nupkg.sha512",
+    "C:\\Users\\Sumair\\.nuget\\packages\\awssdk.translate\\3.7.200.26\\awssdk.translate.3.7.200.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aws-translation-dahabay/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.201.6",
+          "AWSSDK.Translate": "3.7.200.26"
+        },
+        "runtime": {
+          "Aws-translation-dahabay.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.201.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.201.6"
+          }
+        }
+      },
+      "AWSSDK.Translate/3.7.200.26": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.201.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Translate.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.200.26"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aws-translation-dahabay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.201.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z3+Q91ZQsTtB1mHY0Ttkqv5LEH4bfY1GW6SuOAsNErXfZuby6XxJn4o+0HGnZGFf8amx9MCWhVyfmcEPeoy1Uw==",
+      "path": "awssdk.core/3.7.201.6",
+      "hashPath": "awssdk.core.3.7.201.6.nupkg.sha512"
+    },
+    "AWSSDK.Translate/3.7.200.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JvQ4CCaBsCM5xCwIQteRjCIBpBlTvlHScJQH3PQ++P7EUFgr0tQ2UrD5ZC4bFv2EpcY2WlgtaEL+lrP+CDOQwA==",
+      "path": "awssdk.translate/3.7.200.26",
+      "hashPath": "awssdk.translate.3.7.200.26.nupkg.sha512"
+    }
+  }
+}
